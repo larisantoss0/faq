@@ -1,8 +1,23 @@
 *{
-    font-family: 'Courier New', Courier, monospace;
     background-color: #fff1f3a2;
     text-align: center;
 }
+#titulo{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
 #textoinfo{
     font-size: 25px;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+#despedida{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
